@@ -1,0 +1,35 @@
+<mxfile host="65bd71144e">
+    <diagram id="ogzL6LPVLsaKoQ8t-iaY" name="Page-1">
+        <mxGraphModel dx="5907" dy="2874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=0;connectable=0;" parent="1" vertex="1">
+                    <mxGeometry x="-4720" y="-1755" width="880" height="635" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" style="edgeStyle=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="32">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Adherent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="-3810" y="-1430" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;u&gt;Use Case Adherent&lt;br&gt;&lt;/u&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-4720" y="-1830" width="880" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;br&gt;" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
+                    <mxGeometry x="0.013" width="160" relative="1" as="geometry">
+                        <mxPoint x="-3795.56" y="-1430" as="sourcePoint"/>
+                        <mxPoint x="-3795.56" y="-1560" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" value="Guest" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="-3810" y="-1650" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Truc que adhérent fait" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-4070" y="-1435" width="140" height="70" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

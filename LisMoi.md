@@ -1,0 +1,1 @@
+## Super cool ici, télécharge cette extension dans vsCode => "Draw.io Integration" et regarde bien le fichier exemple y'a plein de truc.
